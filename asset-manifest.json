@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c805342.css",
+    "main.js": "/static/js/main.447a4065.js",
+    "static/js/787.5ec5855c.chunk.js": "/static/js/787.5ec5855c.chunk.js",
+    "static/media/Img.svg": "/static/media/Img.93899f4c4aa7b2f862880c167c5b9de5.svg",
+    "static/media/Loods1.svg": "/static/media/Loods1.8a117b8a95aa375b4d3d6cb0b03c5459.svg",
+    "static/media/single-event-hero-banner-img.png": "/static/media/single-event-hero-banner-img.ead011f138c0df3c98b6.png",
+    "static/media/newsletter.svg": "/static/media/newsletter.ca68dc959592456f7bf413f3f1e5d09b.svg",
+    "static/media/lock.svg": "/static/media/lock.e98a1c1d0d7b4e15a1a4d60a0d886196.svg",
+    "static/media/party.svg": "/static/media/party.8f8fec7b45abdda48ddca61cd6e6d8e8.svg",
+    "static/media/Calendar-N.svg": "/static/media/Calendar-N.b19695f5b9208a3754d99aa44a0c82c8.svg",
+    "static/media/Music.svg": "/static/media/Music.6782439c21890ee25f7bb8c779e50917.svg",
+    "static/media/Rotterdam.svg": "/static/media/Rotterdam.29d17b632642157cf6796595b2fede35.svg",
+    "static/media/User.svg": "/static/media/User.eb5565663a2cb7e0b332958452d193c4.svg",
+    "static/media/User-sin.svg": "/static/media/User-sin.07e05f8678e9195afe3d6b00aac7ec65.svg",
+    "static/media/Notification.svg": "/static/media/Notification.379ba58d824ad1b1f4ce94287fcfc81c.svg",
+    "static/media/Warning.svg": "/static/media/Warning.20ba125bd202e0f34abfe76725efd97b.svg",
+    "static/media/Locatie.svg": "/static/media/Locatie.87e8df0f9b799dc0f8f3fcef7c64197d.svg",
+    "static/media/Guestlist-sin.svg": "/static/media/Guestlist-sin.965e2b425d5fad3171a5caa5f02499db.svg",
+    "static/media/Guestlist.svg": "/static/media/Guestlist.e39ec413c9601cdec739c557bacfa4f1.svg",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.034ef726eb08f413c8e9ff1b0abe7414.svg",
+    "static/media/Amsterdam.svg": "/static/media/Amsterdam.f4c17e55a6de627eb9683400dc2ddcd2.svg",
+    "static/media/chat-messages.svg": "/static/media/chat-messages.b11889dea117aea93681f95ae03d1801.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.d8f6d86d359f148eabb584475be58218.svg",
+    "static/media/chevron down.svg": "/static/media/chevron down.2bd3a3c9d772b5f70ff0f52eddc82b40.svg",
+    "main.1c805342.css.map": "/static/css/main.1c805342.css.map",
+    "main.447a4065.js.map": "/static/js/main.447a4065.js.map",
+    "787.5ec5855c.chunk.js.map": "/static/js/787.5ec5855c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c805342.css",
+    "static/js/main.447a4065.js"
+  ]
+}
